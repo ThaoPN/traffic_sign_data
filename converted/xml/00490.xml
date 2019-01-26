@@ -1,0 +1,51 @@
+<annotation>
+    <folder>traffic_sign_data</folder>
+    <filename>00490.ppm</filename>
+    <path>/Users/thaopn/workspace/deeplearning/traffic_sign_data/00490.ppm</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1360</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13
+</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>842</xmin>
+            <ymin>516</ymin>
+            <xmax>870</xmax>
+            <ymax>539</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>38
+</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>644</xmin>
+            <ymin>596</ymin>
+            <xmax>668</xmax>
+            <ymax>620</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>40
+</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>847</xmin>
+            <ymin>536</ymin>
+            <xmax>867</xmax>
+            <ymax>556</ymax>
+        </bndbox>
+    </object>
+</annotation>
